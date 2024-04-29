@@ -1,8 +1,9 @@
-<h3> 🔗&nbsp;Connect with me </h3>
+<h3> 🔗 Connect with me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gheyson-melo-a46439206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_gheyson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://twitter.com/eitamarilia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://discord.com/invite/gheyson" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="Discord Gheyson" height="30" width="40" /></a>
 
 
 <h2>🛠️ Tools</h2>
