@@ -1,4 +1,4 @@
-<h3> 🔗 Connect with me </h3>
+<h2> 🔗 Connect with me </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/gheyson-melo-a46439206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_gheyson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -103,7 +103,3 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gheysonmelo&bg_color=00000000&color=093E61&title_color=093E61&line=0162EB&point=093E61&hide_border=true" /></a>
-
-  <h2>👤 Know me better </h2>
-
-
