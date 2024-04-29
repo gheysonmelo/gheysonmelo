@@ -26,8 +26,8 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badgestyle=for-the-badge&&logo=Arduino&logoColor=white"></a>
-      <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badgestyle=for-the-badge&&&logo=django&logoColor=white"></a>
+      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
+      <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=gitstyle=for-the-badge&hub%20actions&logoColor=white"></a>
   </p>
@@ -48,7 +48,7 @@
   <p>
       <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logostyle=for-the-badge&=dbeaver-mono&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svgstyle=for-the-badge&?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033style=for-the-badge&.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37style=for-the-badge&?logo=postman&logoColor=white"></a>
       <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&style=for-the-badge&logo=insomnia&logoColor=white" />
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=sstyle=for-the-badge&tack-overflow&logoColor=white"></a>
