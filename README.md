@@ -50,8 +50,8 @@
       <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&style=for-the-badge&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-      <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&style=for-the-badge&logo=insomnia&logoColor=white" />
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=sstyle=for-the-badge&tack-overflow&logoColor=white"></a>
+      <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?&style=for-the-badge&logo=insomnia&logoColor=white" />
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visuastyle=for-the-badge&l-studio-code&logoColor=white"></a>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-squarstyle=for-the-badge&e&logo=docker&logoColor=white" />
       <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-sqstyle=for-the-badge&uare&logo=npm&logoColor=white" />
