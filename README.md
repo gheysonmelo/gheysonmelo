@@ -47,8 +47,7 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logostyle=for-the-badge&=dbeaver-mono&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svgstyle=for-the-badge&?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&style=for-the-badge&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
       <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&style=for-the-badge&logo=insomnia&logoColor=white" />
