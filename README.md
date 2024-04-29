@@ -56,6 +56,13 @@
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-squarstyle=for-the-badge&e&logo=docker&logoColor=white" />
       <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-sqstyle=for-the-badge&uare&logo=npm&logoColor=white" />
   </p>
+
+  <h3>Others</h3>
+
+  <p>
+    <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"></a>
+    <a href="#"><img alt="JSON Web Token" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
+  </p>
   
 <h2>📊 Stats and Activity</h2>
 
