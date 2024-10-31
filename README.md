@@ -83,7 +83,7 @@
    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://streak-stats.demolab.com?user=gheysonmelo&theme=transparent&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com?user=gheysonmelo&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak"/>
     </a>
   </p>
 
