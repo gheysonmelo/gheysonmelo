@@ -85,8 +85,6 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gheysonmelo&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
   </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gheysonmelo&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
