@@ -77,14 +77,12 @@
   </p>
   
 <h2>📊 Stats and Activity</h2>
-
+<!-- 
   <h3>🔥 Streak Stats</h3>
-
-   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gheysonmelo&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
   </p>
-
+-->
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -97,5 +95,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
+<!--
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gheysonmelo&bg_color=00000000&color=093E61&title_color=093E61&line=0162EB&point=093E61&hide_border=true" /></a>
+-->
